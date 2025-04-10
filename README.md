@@ -1,9 +1,7 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=Hi%20there,%20I'm%20Jang%20Yuju!&fontSize=50&animation=fadeIn&desc=AI%20Engineering%20Student%20|%20Full-Stack%20Developer%20Wannabe%20&descAlignY=55&fontAlignY=40" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=Hi%20there,%20I'm%20Jang%20Yuju!&fontSize=50&animation=fadeIn&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20Wannabe&descAlignY=55&fontAlignY=40" width="100%"/>
 
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=AI+Engineering+Student+at+Cheju+Halla;Frontend+Development+Lover;2004-born+Cheerful+Girl🎀;Let’s+Code,+Create+and+Have+Fun!✨" alt="Typing SVG" />
- </a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=AI+Engineering+Student+at+Cheju+Halla;Currently+a+Frontend+Developer;Learning+Full-stack+Development;Always+building,+always+growing!✨" alt="Typing SVG" />
 </div>
 
 <div align="center">
