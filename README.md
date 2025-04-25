@@ -47,7 +47,7 @@
 <div align="center">
  <!-- 예시 프로젝트 3개 넣어드립니다. 프로젝트 이름 수정해 주세요 -->
  <a href="https://github.com/UZU2802/uzu-dev">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=project-name1&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=uzu-dev&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://github.com/UZU2802/project-name2">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=project-name2&theme=tokyonight&hide_border=true" />
