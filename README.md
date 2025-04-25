@@ -16,7 +16,7 @@
 
 - 🏫 AI Engineering Student at **Cheju Halla University**
 - 🔧 Currently capable of **frontend development** and studying to become a **full-stack developer**
-- 💡 Interested in **AI, Python, Firebase, and Supabase**
+- 💡 Interested in **AI, Python, backend**
 - 📁 Check out my GitHub for ongoing and completed projects!
 - 🌱 Always curious, always improving — building projects one line at a time
 
@@ -46,7 +46,7 @@
 <h2>🚀 Featured Projects</h2>
 <div align="center">
  <!-- 예시 프로젝트 3개 넣어드립니다. 프로젝트 이름 수정해 주세요 -->
- <a href="https://github.com/UZU2802/project-name1">
+ <a href="https://github.com/UZU2802/uzu-dev">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=project-name1&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://github.com/UZU2802/project-name2">
