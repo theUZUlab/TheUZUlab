@@ -6,8 +6,8 @@
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=UZU2802&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
- <a href="mailto:ujoo2802@gmail.com"> 
-   <img src="https://img.shields.io/badge/Email-ujoo2802%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" />
+ <a href="mailto:uzulab.studio@gmail.com"> 
+   <img src="https://img.shields.io/badge/Email-uzulab.studio%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" />
  </a>
 </div>
 
@@ -67,7 +67,7 @@
    <a href="https://github.com/UZU2802">
      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
    </a>
-   <a href="mailto:ujoo2802@gmail.com">
+   <a href="mailto:uzulab.studio@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
    </a>
  </div>
