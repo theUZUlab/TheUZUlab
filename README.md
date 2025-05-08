@@ -47,12 +47,12 @@
 <div align="center">
  <!-- 예시 프로젝트 3개 넣어드립니다. 프로젝트 이름 수정해 주세요 -->
  <a href="http://www.uzu-dev.kr">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=uzu-dev&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheUZUlab&repo=uzu-dev&theme=tokyonight&hide_border=true" />
  </a>
- <a href="https://github.com/UZU2802/project-name2">
+ <a href="https://github.com/TheUZUlab/project-name2">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=project-name2&theme=tokyonight&hide_border=true" />
  </a>
- <a href="https://github.com/UZU2802/project-name3">
+ <a href="https://github.com/TheUZUlab/project-name3">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=project-name3&theme=tokyonight&hide_border=true" />
  </a>
 </div>
@@ -64,7 +64,7 @@
  
  <h2>🤝 Let's Connect!</h2>
  <div>
-   <a href="https://github.com/UZU2802">
+   <a href="https://github.com/TheUZUlab">
      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
    </a>
    <a href="mailto:uzulab.studio@gmail.com">
