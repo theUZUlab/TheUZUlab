@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=UZU2802&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=theUZUlab&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
  <a href="mailto:uzulab.studio@gmail.com"> 
    <img src="https://img.shields.io/badge/Email-uzulab.studio%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" />
  </a>
 </div>
 
 <h2>🌟 About Me</h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UZU2802&theme=tokyonight&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theUZUlab&theme=tokyonight&hide_border=true" />
 
 - 🏫 AI Engineering Student at **Cheju Halla University**
 - 🔧 Currently capable of **frontend development** and studying to become a **full-stack developer**
@@ -38,33 +38,33 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=UZU2802&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=theUZUlab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
  <br/>
- <img src="https://github-profile-trophy.vercel.app/?username=UZU2802&theme=tokyonight&no-frame=true&row=1&column=7" />
+ <img src="https://github-profile-trophy.vercel.app/?username=theUZUlab&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 <h2>🚀 Featured Projects</h2>
 <div align="center">
  <!-- 예시 프로젝트 3개 넣어드립니다. 프로젝트 이름 수정해 주세요 -->
  <a href="http://www.uzu-dev.kr">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheUZUlab&repo=uzu-dev&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theUZUlab&repo=uzu-dev&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://github.com/TheUZUlab/project-name2">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=project-name2&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theUZUlab&repo=project-name2&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://github.com/TheUZUlab/project-name3">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=UZU2802&repo=project-name3&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theUZUlab&repo=project-name3&theme=tokyonight&hide_border=true" />
  </a>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UZU2802&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theUZUlab&theme=tokyo-night&hide_border=true" width="100%"/>
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  <h2>🤝 Let's Connect!</h2>
  <div>
-   <a href="https://github.com/TheUZUlab">
+   <a href="https://github.com/theUZUlab">
      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
    </a>
    <a href="mailto:uzulab.studio@gmail.com">
