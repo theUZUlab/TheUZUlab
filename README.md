@@ -49,10 +49,10 @@
  <a href="http://www.uzu-dev.kr">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theUZUlab&repo=uzu-dev&theme=tokyonight&hide_border=true" />
  </a>
- <a href="https://github.com/TheUZUlab/project-name2">
+ <a href="https://github.com/theUZUlab/project-name2">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theUZUlab&repo=project-name2&theme=tokyonight&hide_border=true" />
  </a>
- <a href="https://github.com/TheUZUlab/project-name3">
+ <a href="https://github.com/theUZUlab/project-name3">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theUZUlab&repo=project-name3&theme=tokyonight&hide_border=true" />
  </a>
 </div>
